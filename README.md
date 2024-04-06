@@ -30,7 +30,7 @@ O SciBERT é um modelo de linguagem baseado em transformers, desenvolvido especi
 
 - [Download](https://github.com/allenai/scibert)
 - Artigo de Pesquisa
-Beltagy, Iz, Kyle Lo, and Arman Cohan. "SciBERT: A pretrained language model for scientific text." arXiv preprint arXiv:1903.10676 (2019).
+	- Beltagy, Iz, Kyle Lo, and Arman Cohan. "SciBERT: A pretrained language model for scientific text." arXiv preprint arXiv:1903.10676 (2019).
 - Documentação para Python
 
 ### Dados:
@@ -39,7 +39,7 @@ Estamos utilizando o conjunto de dados AMiner para desambiguação de nomes, dis
 - Também deixamos dentro da pasta "[dataset](https://github.com/natansr/int_mineracao_dados_seminario_final/tree/main/dataset)" deste repositório uma cópia já tratada em formato [.csv](https://github.com/natansr/int_mineracao_dados_seminario_final/tree/main/dataset/publications_authors.csv)
 
 - Artigo de Pesquisa
-Yutao Zhang, Fanjin Zhang, Peiran Yao, and Jie Tang. Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop. In Proceedings of the Twenty-Forth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18).
+	- Yutao Zhang, Fanjin Zhang, Peiran Yao, and Jie Tang. Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop. In Proceedings of the Twenty-Forth  ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18).
 
 - [Download](https://github.com/neozhangthe1/disambiguation/?tab=readme-ov-file)
 
