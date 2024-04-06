@@ -1,1 +1,2 @@
+dataset/publications_authors.csv filter=lfs diff=lfs merge=lfs -text
 publications_authors.csv filter=lfs diff=lfs merge=lfs -text
